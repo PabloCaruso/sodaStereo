@@ -1,0 +1,2 @@
+# sodaStereo
+Proyecto Soda
